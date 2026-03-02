@@ -1,0 +1,29 @@
+# Gradle files
+.gradle/
+build/
+/*/build/
+.kotlin/
+gradle/gradle-daemon-jvm.properties
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log files
+*.log
+
+# Android Studio / IntelliJ IDEA files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Captures and deployments
+/captures/
+
+# NDK/C++ build artifacts
+.externalNativeBuild/
+.cxx/
+
+# OS generated files
+.DS_Store
+Thumbs.db
